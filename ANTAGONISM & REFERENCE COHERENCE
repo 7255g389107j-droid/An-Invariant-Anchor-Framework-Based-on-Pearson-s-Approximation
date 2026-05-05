@@ -4,6 +4,9 @@
 # Feature: Comprehensive Evaluation of Component-wise Contention
 # Logic: All-to-all pair comparison (Ohta's Asymmetry Matrix)
 # After stripping, ≥ 5 components are necessary.
+# A detectable invariant component is mostly something 
+# that is dominant in terms of physical mass (proportion) within the system and 
+# whose physical nature is unchanging.
 # The ratio is the last step to the goal.
 # Take the ratio using the Invariant Anchor as the basis. 
 # The UTR absolute variation will be reconstructed as a ratio of basis data using the Invariant Anchor.
