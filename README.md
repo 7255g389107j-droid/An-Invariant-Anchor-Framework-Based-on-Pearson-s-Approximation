@@ -2,6 +2,7 @@
 This is a system for finding invariant components. Therefore, this system tests the mathematical, statistical, and physical properties of compositional data that hold true if there are invariant components.
 In many cases, invariant components will not be found, or may not exist. In other words, much of the compositional data will be either true chaos or data swallowed up by normalization noise.
 It's easy to give up from the start, but please make an effort to find the INVARIANT ANCHOR. I have established the search methods, so you can try to find the INVARIANT ANCHOR.
+# A detectable invariant component is mostly something that is dominant in terms of physical mass (proportion) within the system and whose physical nature is unchanging.
 
 ## 📚 Academic Citation
 
