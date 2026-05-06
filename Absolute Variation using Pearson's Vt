@@ -4,6 +4,8 @@
 # A detectable invariant component is mostly something 
 # that is dominant in terms of physical mass (proportion) within the system and 
 # whose physical nature is unchanging.
+# Beware of spurious correlations. 
+# You must do the final judgment of an all-to-all pair comparison (Ohta's Asymmetry Matrix).
 # Developed by: Tatsuki Itagaki
 # Copyright (c) 2026 Tatsuki Itagaki
 # License: MIT License (https://opensource.org)
@@ -96,4 +98,6 @@ reconstruct_absolute_variation <- function(Dataset, anchor_name) {
   return(reconstruction_results)
 }
 
+# Beware of spurious correlations. 
+# You must do the final judgment of an all-to-all pair comparison (Ohta's Asymmetry Matrix).
 # result <- reconstruct_absolute_variation(Dataset, "Your_Invariant_Anchor_Name")
