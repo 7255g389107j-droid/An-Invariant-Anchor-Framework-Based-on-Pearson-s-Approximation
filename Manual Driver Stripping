@@ -89,6 +89,7 @@
 
 # --- HOW TO USE ---
 # After stripping, ≥ 5 components are necessary.
+# Pearson's r > 0.9 is a necessary condition.
 
 # Example 1: Drop specific taxa by name
 # result <- analyze_physical_coherence_v18_manual(Dataset, manual_drop_names = c("Taxon_A", "Taxon_B"))
