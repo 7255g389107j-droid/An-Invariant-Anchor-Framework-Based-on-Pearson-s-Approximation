@@ -4,6 +4,8 @@
 # A detectable invariant component is mostly something 
 # that is dominant in terms of physical mass (proportion) within the system and 
 # whose physical nature is unchanging.
+# Beware of spurious correlations. 
+# You must do the final judgment of an all-to-all pair comparison (Ohta's Asymmetry Matrix).
 # Developed by: Tatsuki Itagaki (2026)
 # Copyright (c) 2026 Tatsuki Itagaki
 # License: MIT License (https://opensource.org)
@@ -90,6 +92,8 @@
 # --- HOW TO USE ---
 # After stripping, ≥ 5 components are necessary.
 # Pearson's r > 0.9 is a necessary condition.
+# Beware of spurious correlations. 
+# You must do the final judgment of an all-to-all pair comparison (Ohta's Asymmetry Matrix).
 
 # Example 1: Drop specific taxa by name
 # result <- analyze_physical_coherence_v18_manual(Dataset, manual_drop_names = c("Taxon_A", "Taxon_B"))
